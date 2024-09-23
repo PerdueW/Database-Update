@@ -1,0 +1,2 @@
+mSA-12PGW25V=SpkOut_1_3,SpkOut_4_6,SpkOut_7_9,SpkOut_10_12,TalkBack_1_3,TalkBack_4_6,TalkBack_7_9,TalkBack_10_12,Line_Out,Input_Switches,XMOS_Programmer,System_Boot,System_Boot_From_NAND,Program_iMX
+mSA-CPU6=Audio_Output,Audio_Input,Override,Mic_Line_In,Microphone
