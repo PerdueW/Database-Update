@@ -10,11 +10,11 @@ import tkinter as tk
 import os
 import shutil
 
-host = "192.168.60.183"
-#host = "192.168.0.183"
-user = "root"
-password = "root"
-database = "TestStandDB"
+host = ""
+#host = ""
+user = ""
+password = ""
+database = ""
 cleaneddbColumns = []
 cleantables = []
 distinctFileColumns =  []
