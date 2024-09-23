@@ -12,12 +12,12 @@ import shutil
 from pathlib import Path
 import sys
 
-host = "192.168.60.15"
-#host = "192.168.60.183"
-#host = "192.168.0.183"
-user = "root"
-password = "root"
-database = "TestStandDB"
+host = ""
+#host = ""
+#host = ""
+user = ""
+password = ""
+database = ""
 cleaneddbColumns = []
 cleantables = []
 distinctFileColumns =  []
